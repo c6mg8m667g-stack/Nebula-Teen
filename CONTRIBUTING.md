@@ -1,28 +1,28 @@
-# Como Contribuir para o NebulaTeen
+# How to Contribute to NebulaTeen
 
-Seja bem-vindo(a)! Este projeto é uma iniciativa focada na **acessibilidade digital e no desenvolvimento de tecnologias para o bem-estar**. Agradecemos seu interesse em compartilhar conhecimento e ajudar a tornar a informática mais inclusiva.
+Welcome! This project is an initiative focused on **digital accessibility and the development of technologies for well-being**. We appreciate your interest in sharing knowledge and helping to make computing more inclusive.
 
-## 🚀 Nosso Propósito
-Nosso objetivo é permitir que pessoas que não podem digitar consigam navegar na internet através de comandos de voz, eliminando barreiras físicas e promovendo a inclusão digital através de um código ético e transparente.
+## 🚀 Our Purpose
+Our goal is to enable individuals who are unable to type to navigate the internet through voice commands, removing physical barriers and promoting digital inclusion through ethical and transparent code.
 
-## 🛡️ Regras de Ouro (Nosso Manifesto)
-Ao contribuir, você aceita seguir nosso compromisso com a integridade:
-* **Código Ético:** Apenas contribuições voltadas para o bem-estar, educação ou acessibilidade serão aceitas.
-* **Tolerância Zero:** Códigos maliciosos, exploração de vulnerabilidades ou qualquer intenção de prejudicar usuários são estritamente proibidos.
+## 🛡️ The Golden Rules (Our Manifesto)
+By contributing, you agree to uphold our commitment to integrity:
+* **Ethical Code:** Only contributions aimed at well-being, education, or accessibility will be accepted.
+* **Zero Tolerance:** Malicious code, exploitation of vulnerabilities, or any intent to harm users is strictly prohibited.
 
-## 🛠️ Como você pode ajudar?
-Não buscamos apenas código. A "capacidade" é compartilhada de diversas formas:
-1. **Reportando Bugs:** Encontrou uma falha na navegação por voz? Abra uma "Issue" detalhando o problema.
-2. **Melhorando a Tradução:** Quer adicionar suporte a um novo idioma? Submeta um "Pull Request".
-3. **Refinando o Código:** Melhore a eficiência, corrija erros de lógica ou sugira novos temas de interface.
-4. **Documentação:** Ajude a explicar como o código funciona para que outros iniciantes possam aprender com a gente.
+## 🛠️ How Can You Help?
+We are looking for more than just code. "Capacity" is shared in many ways:
+1. **Reporting Bugs:** Found a flaw in voice navigation? Open an "Issue" detailing the problem.
+2. **Improving Translation:** Want to add support for a new language? Submit a "Pull Request."
+3. **Refining the Code:** Improve efficiency, fix logic errors, or suggest new interface themes.
+4. **Documentation:** Help explain how the code works so that other beginners can learn alongside us.
 
-## 📥 Fluxo de Trabalho (O que aprendemos com a prática)
-Para contribuir, siga o padrão de colaboração do GitHub:
-1. Faça um `Fork` do projeto.
-2. Crie uma nova `branch` para sua modificação.
-3. Submeta um `Pull Request` explicando o que você mudou.
-4. Nós revisaremos o seu trabalho para garantir que ele se encaixe no nosso propósito de acessibilidade.
+## 📥 Workflow (Best Practices)
+To contribute, please follow the standard GitHub collaboration pattern:
+1. Fork the project.
+2. Create a new branch for your modifications.
+3. Submit a Pull Request explaining what you changed.
+4. We will review your work to ensure it aligns with our mission of accessibility.
 
 ---
-*“A tecnologia é o reflexo da intenção de quem a cria.”*
+*"Technology is a reflection of the creator's intention."*
